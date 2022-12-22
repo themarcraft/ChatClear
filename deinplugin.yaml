@@ -2,13 +2,16 @@ specVersion: 1
 type: plugin
 name: Hallo Welt
 authors:
-  - BiVieh
-supportedGameVersions: ^1.8
+  - _TheMarCraft_
+supportedGameVersions: ^1.16
 category: misc
-introduction: Ein einfaches Plugin, das das `/helloworld`-Kommando hinzufügt
+introduction: Ein simples Plugin um den Serverchat zu löschen
 description: |
       # Überblick
-      Das Plugin fügt den weltbewegenden Befehl `/helloworld` hinzu.
+      Dies ist ein einfaches chatclear Plugin mit änderbaren Nachrichten in der Config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit
 
-      # Nutzung
-      Zur Nutzung des Plugins muss lediglich `/helloworld` im Chat eingegeben werden.
+      # Befehle:
+- /chatclear
+- /cchat
+- /clearc
+- /cc
