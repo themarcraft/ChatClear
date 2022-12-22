@@ -1,49 +1,14 @@
 specVersion: 1
 type: plugin
-name:
-  de: ChatClear
-  en: ChatClear
+name: Hallo Welt
 authors:
-  - _TheMarCraft_
-download:
-  url: https://www.spigotmc.org/resources/chatclear.96540/download?version=424931
-  name: Spigot
-supportedPlatforms:
-  - spigot
-  - paper
-supportedGameVersions: ^1.16
+  - BiVieh
+supportedGameVersions: ^1.8
 category: misc
-introduction:
-  - de: Ein Simples Plugin welches den Chat löscht
-  - en: A simple plugin which clears your Chat
-description:
-  - de: |
-Dies ist ein einfaches chatclear Plugin mit änderbaren Nachrichten in der Config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit
+introduction: Ein einfaches Plugin, das das `/helloworld`-Kommando hinzufügt
+description: |
+      # Überblick
+      Das Plugin fügt den weltbewegenden Befehl `/helloworld` hinzu.
 
-#Commands
-- /chatclear
-- /cchat
-- /clearc
-- /cc
-
-  - en: |
-This is a simple chatclear plugin with changeable messages in the Config.yml. With %player% the player who executes the command is displayed. Have fun with it
-
-#Commands
-- /chatclear
-- /cchat
-- /clearc
-- /cc
-installation:
-  de: |
-    - Herunterladen der Plugin-Datei
-    - Ablegen der Datei im Plugins-Ordner
-    - Server reloaden
-  en: |
-    - Download the plugin-file
-    - Put the file into your plugins-folder
-    - Reload your server
-images:
-icon: https://www.spigotmc.org/data/resource_icons/96/96540.jpg?1632932036
-videoSources:
-  - https://youtu.be/fAVjnvRk6_4
+      # Nutzung
+      Zur Nutzung des Plugins muss lediglich `/helloworld` im Chat eingegeben werden.
