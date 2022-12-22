@@ -5,10 +5,10 @@ authors:
   - _TheMarCraft_
 supportedGameVersions: ^1.16
 category: misc
-introduction: Ein simples Plugin um den Serverchat zu löschen
+introduction: Ein simples Plugin um den Serverchat zu loeschen
 description: |
       # Überblick
-      Dies ist ein einfaches chatclear Plugin mit änderbaren Nachrichten in der Config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit
+      Dies ist ein einfaches chatclear Plugin mit aenderbaren Nachrichten in der Config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit
 
       # Befehle:
 - /chatclear
