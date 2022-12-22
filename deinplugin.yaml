@@ -6,9 +6,6 @@ authors:
 supportedGameVersions: ^1.16
 category: misc
 introduction: Ein simples Plugin, um den Serverchat zu löschen
-download:
-  url: http://static.grasshopper-design.de/chatclear-1.0.jar
-  name: Spigot
 description: |
   # Überblick
   Dies ist ein einfaches Chatclear-Plugin mit änderbaren Nachrichten in der config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit!
