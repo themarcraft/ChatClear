@@ -1,6 +1,6 @@
 specVersion: 1
 type: plugin
-name: ChatClear
+name: Chat Clear
 authors:
   - themarcraft
 supportedGameVersions: ^1.16
