@@ -1,0 +1,23 @@
+specVersion: 1.2
+type: plugin
+name: ChatClear
+authors:
+  - themarcraft
+supportedGameVersions: ^1.16
+category: misc
+introduction: Ein simples Plugin, um den Serverchat zu löschen
+download:
+  url: https://github.com/themarcraft/ChatClear/releases/download/1.2/chatclear-1.0.jar
+  name: Spigot
+description: |
+  # Überblick
+  Dies ist ein einfaches Chatclear-Plugin mit änderbaren Nachrichten in der config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit!
+  # Befehle:
+  - /chatclear
+  - /cchat
+  - /clearc
+  - /cc
+ 
+icon: https://www.spigotmc.org/data/resource_icons/96/96540.jpg?1632932036
+videoSources:
+  - https://youtu.be/fAVjnvRk6_4
