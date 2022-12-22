@@ -1,0 +1,15 @@
+name: Chatclear
+version: 1.0
+main: cf.tmcz.chatclear.Main
+api-version: 1.16
+prefix: MARVIN
+load: STARTUP
+authors: [ _TheMarCraft_, Marvin ]
+description: Programmiert von _TheMarCraft_zockt
+website: tmcz.grasshopper-design.de
+commands:
+  chatclear:
+    aliases:
+      - cc
+      - chatc
+      - cchat
