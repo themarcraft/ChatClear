@@ -43,8 +43,6 @@ installation:
     - Download the plugin-file
     - Put the file into your plugins-folder
     - Reload your server
-tags:
-  - server-utils
 images:
 icon: https://www.spigotmc.org/data/resource_icons/96/96540.jpg?1632932036
 videoSources:
