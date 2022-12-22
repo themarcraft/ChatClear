@@ -7,7 +7,7 @@ supportedGameVersions: ^1.16
 category: misc
 introduction: Ein simples Plugin, um den Serverchat zu löschen
 download:
-  url: http://static.grasshopper-design.de/ChatClear-1.0.jar
+  url: https://static.grasshopper-design.de/chatclear-1.0.jar
   name: Spigot
 description: |
   ## Überblick
