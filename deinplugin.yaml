@@ -10,9 +10,9 @@ download:
   url: https://static.grasshopper-design.de/chatclear-1.0.jar
   name: Spigot
 description: |
-  ## Überblick
+  # Überblick
   Dies ist ein einfaches Chatclear-Plugin mit änderbaren Nachrichten in der config.yml. Mit %player% wird der Spieler angezeigt, der den Command ausführt. Viel Spaß damit!
-  ## Befehle:
+  # Befehle:
   - /chatclear
   - /cchat
   - /clearc
